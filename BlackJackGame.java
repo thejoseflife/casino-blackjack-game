@@ -1,5 +1,5 @@
 //SIDENOTE:
-//I had absolutely no idea on how to play BlackJack, so I did some online research, but I still may have made a few gameplay mistakes.
+//I didn't know how to play BlackJack, so I did some online research, but I still may have made a few gameplay mistakes.
 
 package com.CardDeck.main;
 
